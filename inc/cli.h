@@ -1,4 +1,5 @@
-class CLI {
+class cli {
 public:
 	void showArray(int[]);
 };
+

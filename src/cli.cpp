@@ -1,8 +1,8 @@
 #include "cli.h"
 #include <iostream>
 
-void CLI::showArray(int[] sortArray) {
+void cli::showArray(int sortArray[]) {
 	for (int i = 0; i < 100; i++) {
-		cout << i + 1 << "::" << sortArray[i] << endl;
+		std::cout << i + 1 << "::" << sortArray[i] << std::endl;
 	}
 }
