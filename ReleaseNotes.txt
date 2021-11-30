@@ -1,0 +1,11 @@
+PR:
+->	Er dient een CLI applicatie gemaakt te worden die verschillende sorteer algorithmes met elkaar gaat vergelijken op functionaliteit en timing. 
+	Een indruk van bestaande sorteeralgorithmes kun je onder andere vinden op: https://www.geeksforgeeks.org/sorting-algorithms/#algo
+
+Nog te implementeren:
+->	f1: het maken van de command line interface <app> <sort algorithme> {lijst met 0 - 100 waarden}
+->	f2: implementeren van het bubble sort algoritme voor integer getallen
+->	f3: merge en heap sort voor integer getallen (tegelijkertijd ontwikkelen)
+->	f4: alle sort methoden uitbreiden voor karakters
+
+Geimplementeerd:
